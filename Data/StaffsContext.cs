@@ -22,7 +22,7 @@ public partial class StaffsContext : DbContext
     public virtual DbSet<Gender> Genders { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseMySQL("server=localhost; database=staffs; uid=root; password=123123");
+        => optionsBuilder.UseMySQL("server=localhost; database=staffs; uid=root; password=123456");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
