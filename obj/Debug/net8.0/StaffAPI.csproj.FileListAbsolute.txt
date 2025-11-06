@@ -1,0 +1,384 @@
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\appsettings.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.exe
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.deps.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.runtimeconfig.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.pdb
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Google.Protobuf.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Humanizer.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\MySql.Data.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.AssemblyReference.cache
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.AssemblyInfoInputs.cache
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.AssemblyInfo.cs
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.CoreCompileInputs.cache
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets\msbuild.StaffAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.StaffAPI.props
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StaffAPI.props
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StaffAPI.props
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\scopedcss\bundle\StaffAPI.styles.css
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.Up2Date
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\refint\StaffAPI.dll
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.pdb
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.genruntimeconfig.cache
+D:\B2203579\3rd_Year\.NET_Programming\StaffAPI\obj\Debug\net8.0\ref\StaffAPI.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\StaffAPI.exe
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\StaffAPI.deps.json
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\StaffAPI.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\StaffAPI.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\StaffAPI.pdb
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PC\Desktop\New folder\staffapi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.sourcelink.json
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets\msbuild.StaffAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets\msbuild.build.StaffAPI.props
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StaffAPI.props
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StaffAPI.props
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\scopedcss\bundle\StaffAPI.styles.css
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.csproj.Up2Date
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.dll
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\refint\StaffAPI.dll
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.pdb
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\StaffAPI.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\staffapi\obj\Debug\net8.0\ref\StaffAPI.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\appsettings.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.staticwebassets.endpoints.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.exe
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.deps.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.runtimeconfig.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\StaffAPI.pdb
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Google.Protobuf.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Humanizer.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\MySql.Data.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.AssemblyReference.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.AssemblyInfoInputs.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.AssemblyInfo.cs
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.CoreCompileInputs.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\scopedcss\bundle\StaffAPI.styles.css
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.csproj.Up2Date
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\refint\StaffAPI.dll
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.pdb
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\StaffAPI.genruntimeconfig.cache
+D:\B2203579\CT219H - C# Programming\StaffAPI\obj\Debug\net8.0\ref\StaffAPI.dll
