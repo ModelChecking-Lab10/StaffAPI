@@ -53,8 +53,11 @@ public class StaffController : ControllerBase
     {
         try
         {
-            if (staff == null)
-                return BadRequest("Invalid staff data.");
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
             var createdStaff = await staffRepository.AddStaff(staff);
 
@@ -76,6 +79,11 @@ public class StaffController : ControllerBase
         {
             if (id != staff.StaffId)
                 return BadRequest("Staff ID mismatch.");
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
             var existingStaff = await staffRepository.GetStaff(id);
             if (existingStaff == null)
