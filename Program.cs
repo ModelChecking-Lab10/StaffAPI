@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using StaffAPI.Data;
+using StaffAPI.Models;
+using StaffAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<StaffsContext>(option =>
     option.UseMySQL(builder.Configuration.GetConnectionString("DBConnection")));
-builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
-builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();  
+builder.Services.AddScoped<IStaffRepository, StaffRepository>();
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -44,7 +44,7 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
-
+app.UseStaticFiles();
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
